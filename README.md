@@ -15,7 +15,7 @@
 - English B2, conversational intermediate.
 
 ## 📫 How to reach me? 
-  - LinkedIn profile: https://www.linkedin.com/in/germ%C3%A1n-gabriel-courvoisier-651923236/ 
+  - [LinkedIn profile](linkedin.com/in/germ%C3%A1n-courvoisier-651923236/)
   - Mail me: germancourvoisier1138@gmail.com
 
 <!---
