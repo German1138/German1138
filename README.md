@@ -17,7 +17,7 @@
 ### 💬 Languages
 
 - Spanish native.
-- English B2, conversational intermediate.
+- English C2, conversational intermediate (EFSET).
 
 ## 📫 How to reach me? 
   - Mail me: germancourvoisier1138@gmail.com
