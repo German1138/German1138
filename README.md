@@ -8,6 +8,11 @@
 - 👀 I’m interested in new tecnologies, web desing, different world languages and cultures!
 - 🌱 I’m currently learning TypeScript and portuguese.
 - 💞️ I’m looking to collaborate on any project that can beneficiate with my help, it would be awesome to gain experience and at the same time meet new people.
+- 📈 Hope I can apply my knowledge and keep growing as a full stack developer.
+
+### 🦾 Tech Skills
+
+- React, Redux, HTML, CSS, JavaScript, Git, Express, Sequelize, PostgreSQL, NodeJS, Firebase
 
 ### 💬 Languages
 
@@ -15,8 +20,8 @@
 - English B2, conversational intermediate.
 
 ## 📫 How to reach me? 
-  - [LinkedIn profile](https://www.linkedin.com/in/germ%C3%A1n-courvoisier-651923236/)
   - Mail me: germancourvoisier1138@gmail.com
+  - [LinkedIn profile](https://www.linkedin.com/in/germ%C3%A1n-courvoisier-651923236/)
 
 <!---
 German1138/German1138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
