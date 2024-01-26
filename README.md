@@ -1,4 +1,4 @@
-![image](https://github.com/German1138/German1138/assets/94945117/8f6ff24d-87a7-4874-a1b9-b32f17ad097f)# Germán Courvoisier
+# Germán Courvoisier
 
 👋 Hi, I’m a **full stack web developer** from Argentina! I've experience working with **PERN** stack, being part of a team and by myself.
 
