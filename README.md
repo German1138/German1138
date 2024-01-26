@@ -1,4 +1,4 @@
-# Germán Courvoisier
+![image](https://github.com/German1138/German1138/assets/94945117/8f6ff24d-87a7-4874-a1b9-b32f17ad097f)# Germán Courvoisier
 
 👋 Hi, I’m a **full stack web developer** from Argentina! I've experience working with **PERN** stack, being part of a team and by myself.
 
@@ -6,7 +6,7 @@
 I characterize myself by my _soft skills_, with them I can reach an optimal communication and organization with my teammates, and create a comfortable working experience for everyone in it. At the same time I show my _tech skills_ with many technologies that I feel good working with, but I'm always looking to learn a new one to complete even more my personal development and fulfill the industry necessities
 
 - 👀 I’m interested in new tecnologies, web desing, different world languages and cultures!
-- 🌱 I’m currently learning TypeScript and portuguese.
+- 🌱 I’m currently learning TypeScript and italian.
 - 💞️ I’m looking to collaborate on any project that can beneficiate with my help, it would be awesome to gain experience and at the same time meet new people.
 - 📈 Hope I can apply my knowledge and keep growing as a full stack developer.
 
@@ -17,7 +17,8 @@ I characterize myself by my _soft skills_, with them I can reach an optimal comm
 ### 💬 Languages
 
 - Spanish native.
-- English C2, conversational intermediate (EFSET).
+- English C2 Proficient [(EFSET Certificate)](https://www.efset.org/cert/HLXWqP).
+- Italian A2 Key [(Certificate)](https://drive.google.com/file/d/1LqSZOyhd31O7o3w5vqUvT9BuMZqSNFFk/view?usp=drive_link)
 
 ## 📫 How to reach me? 
   - Mail me: germancourvoisier1138@gmail.com
