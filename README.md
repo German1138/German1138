@@ -1,30 +1,24 @@
-# Germán Courvoisier
+🤔 **About me**
 
-👋 Hi, I’m a **full stack web developer** from Argentina! I've experience working with **PERN** stack, being part of a team and by myself.
+- My name is Germán.
+- Working in Accenture as a Workday Reporting Developer.
+- I enjoy starting new development proyects.
 
-### 🤔 What can I offert and a little bit about me
-I characterize myself by my _soft skills_, with them I can reach an optimal communication and organization with my teammates, and create a comfortable working experience for everyone in it. At the same time I show my _tech skills_ with many technologies that I feel good working with, but I'm always looking to learn a new one to complete even more my personal development and fulfill the industry necessities
+💼 **Tech Skills**
 
-- 👀 I’m interested in new tecnologies, web desing, different world languages and cultures!
-- 🌱 I’m currently learning TypeScript and italian.
-- 💞️ I’m looking to collaborate on any project that can beneficiate with my help, it would be awesome to gain experience and at the same time meet new people.
-- 📈 Hope I can apply my knowledge and keep growing as a full stack developer.
+- React, Redux, HTML, CSS, JavaScript, Git, Express, Sequelize, PostgreSQL, NodeJS, Firebase.
 
-### 🦾 Tech Skills
-
-- React, Redux, HTML, CSS, JavaScript, Git, Express, Sequelize, PostgreSQL, NodeJS, Firebase
-
-### 💬 Languages
+👥 **Languages**
 
 - Spanish native.
 - English C2 Proficient [(EFSET Certificate)](https://www.efset.org/cert/HLXWqP).
 - Italian A2 Key [(Certificate)](https://drive.google.com/file/d/1LqSZOyhd31O7o3w5vqUvT9BuMZqSNFFk/view?usp=drive_link)
 
-## 📫 How to reach me? 
-  - Mail me: germancourvoisier1138@gmail.com
+📫 **Social** 
+  - [Mail me](germancourvoisier1138@gmail.com)
   - [LinkedIn profile](https://www.linkedin.com/in/germ%C3%A1n-courvoisier-651923236/)
 
-<!---
+
 German1138/German1138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
