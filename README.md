@@ -16,4 +16,4 @@
 
 📫 **Social** 
   - Email: germancourvoisier1138@gmail.com
-  - [LinkedIn](linkedin.com/in/germancou/)
+  - LinkedIn: [@germancou](https://www.linkedin.com/in/germancou/?locale=en_US)
