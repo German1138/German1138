@@ -1,12 +1,15 @@
 🤔 **About me**
 
 - My name is Germán.
-- Working in Accenture as a Workday Reporting Developer.
+- Full Stack Developer.
 - I enjoy starting new development proyects.
 
 💼 **Tech Skills**
 
-- React, Redux, HTML, CSS, JavaScript, Git, Express, Sequelize, PostgreSQL, NodeJS, Firebase.
+- **Frontend:** TypeScript, Next.js, React, React Native, Expo, Redux, MUI, styled-components, Figma.
+- **Backend & Databases:** Node.js, Express, Sequelize, PostgreSQL, MongoDB, Firebase, SQL, Python, C#.
+- **Tools & Cloud:** Git, Linux, Azure, AWS (Cloud Practitioner Essentials), ServiceNow, Jira, Notion.
+- **Methodologies:** Agile (Scrum / Kanban).
 
 👥 **Languages**
 
